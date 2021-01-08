@@ -9,7 +9,7 @@ Electronic Health Records
 
 Steps to run
 
-1- Create a virtualenv (preferable python3.6+)
-2- pip install -r requiremnts.txt
-3- Route to the Electonic_health_records
-4- run main.py
+- Create a virtualenv (preferable python3.6+)
+- pip install -r requiremnts.txt
+- Route to the Electonic_health_records
+- run main.py
